@@ -3,6 +3,7 @@
 A simple Python script to measure and visualize how well an LLM (GPT-4.1) follows rules.\
 THe experiment asks the model to write a short story with an increasing number of "include this word" rules and measures how often it follows the rules.
 
+![img.png](img.png)
 ---
 
 ## 📋 Features
